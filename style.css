@@ -1,0 +1,35 @@
+html {
+  background-color: rgb(198, 172, 247);
+}
+body {
+  background-color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 500px;
+  margin: 50px auto;
+  padding: 25px 50px;
+  border-radius: 20px;
+}
+
+h1 {
+  color: rgb(44, 2, 46);
+}
+
+h2 {
+  color: black;
+  text-decoration: underline;
+}
+
+h1,
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(5, 97, 150);
+  text-decoration: underline;
+}
